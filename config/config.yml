@@ -1,0 +1,22 @@
+default:
+  polling_interval: 5000
+  status_map_colors:
+    1:
+      background_color: "#FF9999"
+    2:
+      background_color: "#FFF4A3"
+    3:
+      background_color: "#A3E6A3"
+    4:
+      background_color: "#FFCC99"
+    5:
+      background_color: "#D3D3D3"
+
+development:
+  # Uses polling_interval from default
+
+test:
+  # Uses polling_interval from default
+
+production:
+  # Uses polling_interval from default
