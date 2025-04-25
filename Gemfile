@@ -38,7 +38,7 @@ gem "thruster", require: false
 # TODO: Use Pessimistic Version Constraints
 gem 'paper_trail', '~> 16.0'
 gem 'paranoia', '~> 3.0', '>= 3.0.1'
-gem 'faker', '~> 2.0'
+gem 'faker', '~> 3.5'
 gem 'rack-cors'
 
 group :development, :test do
